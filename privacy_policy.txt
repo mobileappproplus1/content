@@ -1,0 +1,26 @@
+Effective Date: 20-June-2023
+At ProPlus Logics, we are committed to protecting the privacy and security of our users. This Privacy Policy outlines how we collect, use, disclose, and safeguard the personal information you provide while using our poster designing Software-as-a-Service (SaaS) mobile application (the "App").
+Please read this Privacy Policy carefully. By accessing or using our App, you agree to the collection, use, and disclosure of your personal information as described in this Privacy Policy. If you do not agree with the practices described in this policy, please do not use the App.
+1. Information We Collect
+1.1 Personal Information: When you use our App, we may collect certain personally identifiable information, such as your name, email address, and any other information you voluntarily provide to us.
+1.2 Usage Data: We may collect non-personal information about your use of the App, such as your device information, operating system, and browsing actions. This data is used to analyse trends, improve the App's functionality, and enhance your overall experience.
+2. How We Use Your Information
+2.1 Provide and Improve the App: We may use the information we collect to provide you with access to and improve the functionality of the App. This includes delivering personalized content, troubleshooting technical issues, and optimizing user interfaces.
+2.2 Communication: We may use your contact information to send you administrative and promotional communications, such as important updates, newsletters, and marketing materials related to our services. You have the option to unsubscribe from marketing communications at any time.
+2.3 Analytics: We may use non-personal information, such as usage data and patterns, to analyse user behaviour, track App performance, and improve our services.
+3. Disclosure of Your Information
+3.1 Service Providers: We may engage third-party service providers to perform various functions necessary for the operation and maintenance of the App. These providers may have access to your personal information but are obligated not to disclose or use it for any other purpose.
+3.2 Legal Requirements: We may disclose your personal information if required to do so by law or in response to valid legal requests, such as court orders, subpoenas, or government investigations.
+3.3 Business Transfers: In the event of a merger, acquisition, or sale of our company assets, your personal information may be transferred to a new owner as part of the transaction. We will notify you of any such change in ownership or control.
+4. Data Security
+We implement appropriate technical and organizational measures to protect the security of your personal information and prevent unauthorized access, disclosure, or alteration. However, no data transmission over the internet or storage system is entirely secure, and we cannot guarantee the absolute security of your information.
+
+5. Children's Privacy
+The App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13 years of age. If you believe we have inadvertently collected information from a child, please contact us immediately, and we will take steps to delete the information.
+6. Changes to the Privacy Policy
+We reserve the right to modify this Privacy Policy at any time. We will notify you of any changes by updating the "Effective Date" at the top of this policy. We encourage you to review this Privacy Policy periodically to stay informed about our information practices.
+7. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us at info@propluslogics.com 
+ProPlus Logics - Protecting Your Privacy, Empowering Your Creativity.
+
+
